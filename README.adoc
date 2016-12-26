@@ -1,0 +1,2 @@
+= Configuration Repository
+Git repository containing centralized configuration
